@@ -535,6 +535,14 @@ main {
   .bg-right {
     width: 250px;
   }
+
+  .donut {
+    top: 9%;
+  }
+
+  .donut-2 {
+    top: 9%;
+  }
 }
 
 @media screen and (max-width: 500px) {
